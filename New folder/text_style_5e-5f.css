@@ -1,0 +1,40 @@
+p {
+  font-family: Arial;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.new {
+  color: rgb(255, 136, 0);
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.device {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.price {
+  margin-bottom: 10px;
+}
+
+.buy {
+  background-color: rgb(0, 113, 227);
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
