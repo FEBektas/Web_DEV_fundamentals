@@ -1,0 +1,86 @@
+div {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body, p {
+  margin: 0%;
+  padding: 0%;
+}
+
+.profile-picture {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.container {
+  display: flex;
+  max-width: 450px;
+  padding: 18px;
+  border: solid;
+  border-width: 1px;
+  border-color: grey;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  box-shadow: 7px 7px 7px rgba(200, 200, 200, 0.5);
+}
+
+.righ-section {
+  display: flex;
+  justify-items: center;
+}
+
+.left-section {
+  padding-right: 18px;
+}
+
+.title {
+  display: flex;
+  margin-bottom: 6px;
+}
+
+.bottom-right-section {
+  display: flex;
+}
+
+.thumbnail {
+  margin-top: 18px;
+  background-color: rgb(189, 189, 189);
+  width: 80px;
+  height: 80px;
+  border-radius: 15px 0px 0px 15px;
+}
+
+.thumbnail-info {
+  width: 240px;
+  height: 78px;
+  margin-top: 18px;
+  border: solid;
+  border-radius: 0px 15px 15px 0px;
+  margin-left: -1px;
+  border-width: 1px;
+  border-color: rgb(189, 189, 189);
+  padding-left: 7px;
+}
+
+.video-title {
+  font-weight: bold;
+  margin-right: 7px;
+}
+
+.video-at {
+  color: grey
+}
+
+.thumbnail-title {
+  margin-top: 8px;
+  margin-bottom: 3px;
+  color: grey;
+}
+
+.thumbnail-description {
+  font-weight: 600;
+}

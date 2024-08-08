@@ -1,0 +1,69 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 1000px;
+}
+
+.shoes-container {
+  position: relative;
+  display: inline-block;
+  margin-right: 30px;
+}
+
+.shoes-photo {
+  width: 300px;
+  height: 350px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.discount-tag {
+  position: absolute;
+  top: 12px;
+  right: 0;
+  background-color: black;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-size: 15px;
+}
+
+.tank-top-container {
+  position: relative;
+  display: inline-block;
+}
+
+.tank-top-photo {
+  width: 300px;
+  height: 350px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.add-to-cart-container {
+  background-color: rgba(255, 255, 255, 0.3);
+  display: flex;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 120px;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+}
+
+.add-to-cart {
+  background-color: white;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-width: 2px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.add-to-cart:hover {
+  cursor: pointer;
+}

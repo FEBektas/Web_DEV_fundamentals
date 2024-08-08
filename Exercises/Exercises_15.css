@@ -1,0 +1,108 @@
+Body {
+  height: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.x-button-container {
+  position: relative;
+}
+
+.x-button {
+  position: absolute;
+  right: 0;
+  top: 0;
+  background-color: black;
+  color: white;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 20px;
+}
+
+.x-button:hover {
+  cursor: pointer;
+}
+
+.grey-screen {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: gray;
+  width: 320px;
+  height: 180px;
+  box-shadow: 7px 7px 3px rgba(0, 0, 0, 1);
+}
+
+.green-screen {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  background-color: rgb(0, 151, 0);
+  width: 320px;
+  height: 180px;
+  box-shadow: 9px 9px 5px rgb(0, 131, 17);
+}
+
+.x-closing-button {
+  position: absolute;
+  background-color: black;
+  color: white;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 20px;
+  position: absolute;
+  top: -15px;
+  left: -10px;
+}
+
+.x-closing-button:hover {
+  cursor: pointer;
+}
+
+.black-screen-container {
+  position: fixed;
+}
+
+.black-screen {
+  position: fixed;
+  top: 20px;
+  left: 420px;
+  width: 320px;
+  height: 180px;
+  background-color: black;
+  box-shadow: 8px 8px 8px rgb(0, 0, 0);
+}
+
+.x-closing-II-button {
+  position: absolute;
+  background-color: black;
+  color: white;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 20px;
+  position: absolute;
+  top: -15px;
+  left: -10px;
+}
+
+.x-closing-II-button:hover {
+  cursor: pointer;
+}
+
+.timer {
+  position: absolute;
+  background-color: red;
+  color: white;
+  bottom: 12px;
+  right: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+  border-radius: 3px;
+}
