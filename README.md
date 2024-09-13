@@ -19,6 +19,7 @@ Please refer to the first few lines of the scripts for any additional required p
 ## Change Log ##
 
 CSS_HTML_basics.html - contains several basic syntax usages.
+
 Hover_Transition_Hover.html - contains an exercise where HTML and CSS are combined.
 
 **Exercises** - Contains all the exercises to develop and learn the HTML and CSS syntax and to get a better grasp of them.
