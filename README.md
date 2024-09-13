@@ -4,8 +4,8 @@ This project contains a collection of concepts, examples and exercises based on 
 
 ## Key Features ##
 
--Diverse Beginner Exercises: Covering fundamental concepts such as: HTML syntax, CSS style formatting & Nested layouts.
-Flexibility and Adaptability: Implementing Front-End Design and UX Best Practices
+- **Diverse Beginner Exercises:** Covering fundamental concepts such as: HTML syntax, CSS style formatting & Nested layouts.
+- **Flexibility and Adaptability:** Implementing Front-End Design and UX Best Practices
 
 ## Project Structure: ##
 
