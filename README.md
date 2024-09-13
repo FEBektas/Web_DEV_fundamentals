@@ -22,7 +22,7 @@ Hover_Transition_Hover.html - contains an exercise where HTML and CSS are combin
 
 **Exercises** - Contains all the exercises to develop and learn the HTML and CSS syntax and to get a better grasp of them.
 - Combination of HTML and CSS beginner exercises to develop a better grasp of the syntax.
-- 
+
 **Final Project** - This contains the final form of the project for the beginner concepts.
 
 - Combination of HTML and CSS beginner syntax, such as: nested layouts technique, CSS basics.
