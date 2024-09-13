@@ -9,8 +9,9 @@ Flexibility and Adaptability: Implementing Front-End Design and UX Best Practi
 
 ## Project Structure: ##
 
-subject_specific.html files. These contain a title specific to the HTML and CSS concepts contained.
-subject_specific folders. These contain the elements specified in the folder name.
+- subject_specific.html files. These contain a title specific to the HTML and CSS concepts contained.
+  
+- subject_specific folders. These contain the elements specified in the folder name.
 
 ## Requirements: ##
 Please refer to the first few lines of the scripts for any additional required packages.
